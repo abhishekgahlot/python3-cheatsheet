@@ -6,7 +6,7 @@
   from string import ascii_lowercase, ascii_uppercase, ascii_letters
 ```
 
-### Permutation and Combination Library
+### Permutation and Combination
 ```
 from itertools import permutation, combinations
 ```
