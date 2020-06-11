@@ -3,12 +3,12 @@
 
 ### Set of lowercase, uppercase and lowercase + uppercase
 ```
-  from string import ascii_lowercase, ascii_uppercase, ascii_letters
+from string import ascii_lowercase, ascii_uppercase, ascii_letters
 ```
 
 ### Permutation and Combination
 ```
-from itertools import permutation, combinations
+from itertools import permutations, combinations
 ```
 
 ### Counter
