@@ -1,4 +1,4 @@
-# Python3 tips for competitive programming or coding interviews
+# Python3 for competitive programming or coding interviews
 
 
 ### Set of lowercase, uppercase and lowercase + uppercase
