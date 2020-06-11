@@ -66,3 +66,8 @@ print(Counter(eg)) # Counter({1: 1, 2: 1, 3: 1, 4: 1, 5: 1})
   b - a # Prints items not in x but are in y
 ```
 
+
+### Tranpose of Matrix
+```
+  zip(*matrix)
+```
