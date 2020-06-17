@@ -71,3 +71,14 @@ print(Counter(eg)) # Counter({1: 1, 2: 1, 3: 1, 4: 1, 5: 1})
 ```
   zip(*matrix)
 ```
+
+
+### OrderedDict ( Preserver order of insertion in O(1))
+```
+  from collections import OrderedDict
+  d = OrderedDict()
+  d[key] = value
+  d.pop(key)
+  d.popitem()
+  d.popitem(last=False)
+```
